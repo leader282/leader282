@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leader282
 - 👀 I’m interested in collaborating with various people in numerous open source projects
-- 🌱 I’m currently learning C++, web development, blockchain technology and many more things
+- 🌱 I’m currently learning C++, web development, app development and many more things
 - 💞️ I’m looking to collaborate on web development, blockchain and other interesting topics
-- 📫 How to reach me: Whatsapp no.: 9832144857 | Email: biswanathsanto@gmail.com, aritracodm2002@kgpian.iitkgp.ac.in
+- 📫 How to reach me: Whatsapp no.: 9832144857 | Email: chakrabortyaritra.2002@gmail.com, aritracodm2002@kgpian.iitkgp.ac.in
